@@ -1,0 +1,33 @@
+{
+	"InstallCheck" : true,
+	"WindowX" : "2ad",
+	"WindowY" : "ae",
+	"Renderer" : {
+		"ColourMode" : "0",
+		"DisplayModes" : [],
+		"RenderModes" : [
+			"fff380",
+			"ff00f270",
+			"400f381"
+		],
+		"GravityField" : true,
+		"Decorations" : true,
+		"DebugMode" : false
+	},
+	"Simulation" : {
+		"EdgeMode" : "0",
+		"NewtonianGravity" : "1",
+		"AmbientHeat" : "1",
+		"PrettyPowder" : "1"
+	},
+	"Decoration" : {
+		"Red" : "c8",
+		"Green" : "64",
+		"Blue" : "32",
+		"Alpha" : "ff"
+	},
+	"User" : null,
+	"Console" : {
+		"History" : []
+	}
+}
